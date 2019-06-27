@@ -269,7 +269,7 @@ Y listo tenemos nuestro instalador
 
 ![Instalando](img/05_instalando.png)
 
-![Instalado](img/06-instalado.png)
+![Instalado](img/06_instalado.png)
 
 Y si va a archivos de programa vera que las carpetas que declaro se crearon con el contenido esperado.
 
